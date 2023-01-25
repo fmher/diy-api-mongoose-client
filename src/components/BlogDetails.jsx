@@ -1,0 +1,1 @@
+// displays blog and its content
